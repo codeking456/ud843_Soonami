@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.android.soonami;
+package com.codeking123.android.soonami;
 
 /**
  * {@Event} represents an earthquake event. It holds the details
